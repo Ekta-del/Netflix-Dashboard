@@ -23,5 +23,7 @@ A Netflix-inspired dashboard that lets users browse and search for movies and TV
    ```
 
 ## Technologies Used
+- Power BI
+- Data Modeling
 - sql
 - Excel
