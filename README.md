@@ -1,7 +1,7 @@
-# Netflix-Dashboard
+# Netflix-Power BI Dashboard
 
 ## Overview
-A Netflix-inspired dashboard that lets users browse and search for movies and TV shows.
+A Netflix Power BI dashboard that lets users browse and search for movies and TV shows.
 
 ## Features
 - Search functionality for movies and TV shows.
